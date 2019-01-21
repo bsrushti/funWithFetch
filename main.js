@@ -27,4 +27,8 @@ const hit = function(data, index) {
   punch.style.fontSize = "30px";
 };
 
+const next = function() {
+  location.reload();
+};
+
 window.onload = getScore;

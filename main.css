@@ -30,3 +30,10 @@
   top: 350px;
   left: 350px;
 }
+
+.next {
+  font-size: 30px;
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
